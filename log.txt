@@ -1,0 +1,7 @@
+2023-12-26 18:59:13 INFO ====== WebDriver manager ======
+2023-12-26 18:59:14 INFO Get LATEST chromedriver version for google-chrome
+2023-12-26 18:59:14 INFO Get LATEST chromedriver version for google-chrome
+2023-12-26 18:59:14 INFO Driver [C:\Users\Алексей\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-26 18:59:15 INFO Test-1 start: проверка валидной авторизации
+2023-12-26 18:59:18 INFO Test-2 start: проверка перехода по кнопке about на страницу About Page
+2023-12-26 18:59:18 INFO Test-3 start: проверка размера шрифта заголовка страницы About Page
